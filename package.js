@@ -2,7 +2,7 @@ Package.describe({
   name: 'fauphi:autoform-quill',
   git: 'https://github.com/Fauphi/autoform-quill',
   summary: 'Autoform Quill editor.',
-  version: '0.1.0'
+  version: '0.1.1'
 });
 
 Package.onUse(function (api) {
